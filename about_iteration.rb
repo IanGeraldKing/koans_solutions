@@ -130,6 +130,6 @@ class AboutIteration < Neo::Koan
   # When you get to the "AboutSandwichCode" koan, recheck your answer.
 
   # It would appear that it is the optimal format to perform iteration
-  # on a given file.
+  # on a given file.a
 
 end
